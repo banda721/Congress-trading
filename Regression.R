@@ -9,9 +9,9 @@ library(performance)
 library(stargazer)
 library(survival)
 
-setwd("C:\\Users\\gihan\\OneDrive\\Gihan\\BGSU_MAFE\\Books\\Econometrics\\Project")
+
 ## Transaction data
-all_transactions<-read.csv('C:\\Users\\gihan\\OneDrive\\Gihan\\BGSU_MAFE\\Books\\Econometrics\\Project\\all_transactions.csv')
+all_transactions<-read.csv('all_transactions.csv')
 unique(all_transactions$senator)
 
 ## Subset all the Stock asset type disclosures
@@ -19,7 +19,7 @@ transactions<-all_transactions[all_transactions$asset_type %in% "Stock", ]
 summary(transactions$senator)
 
 ## SP 500 data
-sp<-read.csv('C:\\Users\\gihan\\OneDrive\\Gihan\\BGSU_MAFE\\Books\\Econometrics\\Project\\constituents1.csv')
+sp<-read.csv('constituents1.csv')
 names(sp)
 ## Change sectors to the committee names
 sp <- sp %>%
@@ -36,7 +36,7 @@ sp <- sp %>%
 names(sp)
 
 ## Senate committees
-senatecomm<-read_excel("C:\\Users\\gihan\\OneDrive\\Gihan\\BGSU_MAFE\\Books\\Econometrics\\Project\\Senate_assignments_103-117.xlsx", skip = 1)
+senatecomm<-read_excel("Senate_assignments_103-117.xlsx", skip = 1)
 
 
 ## 113-117th session of congress
@@ -82,7 +82,7 @@ sum(senators_final$count)
 #write.csv(senators_final, file = "senators_final13.csv", row.names = FALSE)
 
 ################################################################################################################################
-all_trades<-read.csv('C:\\Users\\gihan\\OneDrive\\Gihan\\BGSU_MAFE\\Books\\Econometrics\\Project\\All_Trades.csv')
+all_trades<-read.csv('All_Trades.csv')
 names(all_trades)
 summary(all_trades)
 str(all_trades)
@@ -105,9 +105,9 @@ Poisson1=glm(count~party+Committee.Seniority+Committee_Rank+Amount+Committee.Per
 summary(Poisson1)
 stargazer(Poisson1,type="text")
 
-########################################Survival##########################################################################################
+########################################Survival Analysis##########################################################################################
 
-All_Trades_surv<-read.csv('C:\\Users\\gihan\\OneDrive\\Gihan\\BGSU_MAFE\\Books\\Econometrics\\Project\\All_Trades_surv.csv')
+All_Trades_surv<-read.csv('All_Trades_surv.csv')
 All_Trades_surv$transaction_date <- as.Date(All_Trades_surv$transaction_date, format = "%m/%d/%Y")
 
 trades_summary <- All_Trades_surv %>%
@@ -116,7 +116,7 @@ trades_summary <- All_Trades_surv %>%
 
 trades_summary
 
-surv<-read.csv('C:\\Users\\gihan\\OneDrive\\Gihan\\BGSU_MAFE\\Books\\Econometrics\\Project\\Survival data.csv')
+surv<-read.csv('Survival data.csv')
 surv$Time=as.numeric(surv$Time)
 surv$count=as.numeric(surv$count)
 
