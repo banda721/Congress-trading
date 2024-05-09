@@ -1,0 +1,140 @@
+senator,ticker,transaction_date,type,party,state,industry,sector,IQ_STATE,Committee Code,Rank Within Party,Party Code,Committee Seniority,Committee Period of Service,Committee_Name,Amount,count,SPY_Price,SPY_Price_30,Stock price,Stock price_30,Excess Return,Sus Trade_return,Sus trade_State,Time,Censure 2,Committee Rank
+"Smith, Tina",MDT,4/5/2023,Sale (Full),Democrat,MN,Biotechnology: Electromedical & Electrotherapeutic Apparatus,Health Care,0,305,7,100,5,2,"Agriculture, Nutrition, and Forestry",175000.5,0,407.6,412.63,80.27,90.06,-0.09651521,0,0,20,1,13
+"Fischer, Deb",LMT,6/23/2022,Sale (Full),Republican,NE,Military/Government/Technical,Capital Goods,MD,305,11,200,1,2,"Agriculture, Nutrition, and Forestry",75000.5,0,378.06,395.09,410.62,394.74,0.083333114,1,0,4,1,13
+"Murray, Patty",AMT,6/15/2017,Sale (Full),Democrat,WA,Real Estate Investment Trusts,Consumer Services,MA,306,2,100,27,2,Appropriations,8000.5,0,243.77,245.56,130.87,136.04,-0.030714068,0,0,161,1,2
+"Van Hollen, Chris",T,2/17/2017,Sale (Full),Democrat,MD,Telecommunications Equipment,Public Utilities,TX,306,15,100,3,2,Appropriations,8000.5,0,235.09,237.03,41.48,42.61,-0.018334978,0,0,7,1,2
+"Perdue, David",SOJA,4/16/2020,Sale (Full),Republican,GA,,,GA,308,9,200,3,2,Armed Services,32500.5,0,279.1,286.28,0,0,,0,1,1929,1,5
+"Toomey, Patrick J.",SPG,10/15/2021,Purchase,Republican,PA,Real Estate Investment Trusts,Consumer Services,IN,316,5,200,9,2,Budget,8000.5,0,445.87,467.27,140.22,164.8,0.127299911,1,0,17,1,15
+"Moran, Jerry",GILD,12/21/2021,Sale (Full),Republican,KS,Biotechnology: Biological Products (No Diagnostic Substances),Health Care,CA,321,6,200,3,2,"Commerce, Science, and Transportation",8000.5,0,463.06,446.75,71.84,67.81,0.022922648,1,0,94,1,4
+"Duckworth, Tammy",ITW,4/11/2023,Sale (Full),Democrat,IL,Industrial Machinery/Components,Technology,IL,321,8,100,5,2,"Commerce, Science, and Transportation",32500.5,0,409.72,412.13,230.56,227.9,0.017519455,1,1,48,1,4
+"Inhofe, James M.",CRSP,1/5/2021,Sale (Partial),Republican,OK,Biotechnology: Biological Products (No Diagnostic Substances),Health Care,0,332,2,200,23,2,Environment and Public Works,8000.5,0,371.33,386.19,160.62,167.79,-0.004253517,0,0,212,1,11
+"Whitehouse, Sheldon",BHF,8/7/2017,Exchange,Democrat,RI,Life Insurance,Finance,NC,332,4,100,11,2,Environment and Public Works,8000.5,0,247.87,246.9,61.72,53.18,0.156657971,1,0,1,1,11
+"Boozman, John",IWM,4/22/2021,Sale (Full),Republican,AR,,,CA,332,8,200,7,2,Environment and Public Works,8000.5,0,412.27,414.94,221.58,219.97,0.013753845,1,0,1,1,11
+"Wyden, Ron",C,4/24/2020,Sale (Full),Democrat,OR,Major Banks,Finance,NY,336,1,100,17,2,Finance,8000.5,1,282.97,295.44,43.1,44.1,0.019532495,1,0,37,0,1
+"Wyden, Ron",VAC,5/26/2020,Purchase,Democrat,OR,Real Estate,Finance,FL,336,1,100,17,2,Finance,32500.5,1,299.08,307.35,92.39,80.43,-0.157102704,0,0,18,0,1
+"Wyden, Ron",VAC,5/27/2020,Purchase,Democrat,OR,Real Estate,Finance,FL,336,1,100,17,2,Finance,32500.5,1,303.53,300.05,98.65,77.5,-0.202929229,0,0,4,0,1
+"Wyden, Ron",VAC,8/3/2020,Sale (Full),Democrat,OR,Real Estate,Finance,FL,336,1,100,17,2,Finance,32500.5,1,328.79,357.7,82.79,96.12,-0.057858898,0,0,78,0,1
+"Roberts, Pat",BAC,12/12/2014,Sale (Full),Republican,KS,Major Banks,Finance,NC,336,3,200,13,2,Finance,8000.5,1,200.89,204.25,17.13,16.98,0.025284351,1,0,2,0,1
+"Roberts, Pat",ETY,3/6/2015,Purchase,Republican,KS,Finance Companies,Finance,MA,336,3,200,13,2,Finance,8000.5,1,207.5,206.435,11.57,11.26,-0.021660901,0,0,20,0,1
+"Roberts, Pat",ETY,3/13/2015,Purchase,Republican,KS,Finance Companies,Finance,MA,336,3,200,13,2,Finance,32500.5,1,205.8272,210.04,11.39,11.47,-0.013443949,0,0,7,0,1
+"Roberts, Pat",BAC,12/15/2016,Purchase,Republican,KS,Major Banks,Finance,NC,336,3,200,13,2,Finance,8000.5,1,226.81,227.05,23.16,23.01,-0.007534838,0,0,31,0,1
+"Roberts, Pat",BAC,7/18/2017,Purchase,Republican,KS,Major Banks,Finance,NC,336,3,200,13,2,Finance,8000.5,1,245.66,243.09,23.9,23.64,-0.000417047,0,0,19,0,1
+"Roberts, Pat",BAC,7/28/2017,Sale (Full),Republican,KS,Major Banks,Finance,NC,336,3,200,13,2,Finance,8000.5,1,246.91,244.56,24.03,23.77,0.001329063,1,0,4,0,1
+"Roberts, Pat",WF,8/1/2017,Purchase,Republican,KS,Commercial Banks,Finance,0,336,3,200,13,2,Finance,8000.5,1,247.32,247.49,51.85,49.37,-0.048517648,0,0,6,0,1
+"Roberts, Pat",COF,8/1/2017,Purchase,Republican,KS,Major Banks,Finance,VA,336,3,200,13,2,Finance,8000.5,1,247.32,247.49,86.01,79.61,-0.075097321,0,0,2,0,1
+"Roberts, Pat",BAC,8/7/2017,Purchase,Republican,KS,Major Banks,Finance,NC,336,3,200,13,2,Finance,8000.5,1,247.87,246.9,24.96,23.41,-0.058186017,0,0,5,0,1
+"Roberts, Pat",BAC,9/7/2017,Purchase,Republican,KS,Major Banks,Finance,NC,336,3,200,13,2,Finance,8000.5,1,246.87,254.37,22.97,26.21,0.110673186,1,0,3,0,1
+"Roberts, Pat",BAC,9/26/2017,Sale (Full),Republican,KS,Major Banks,Finance,NC,336,3,200,13,2,Finance,32500.5,1,249.08,255.62,24.81,27.74,-0.080038796,0,0,8,0,1
+"Roberts, Pat",SBUX,9/26/2017,Purchase,Republican,KS,Restaurants,Consumer Services,WA,336,3,200,13,2,Finance,8000.5,0,249.08,255.62,55.13,54.91,-0.030247192,0,0,1,1,1
+"Roberts, Pat",WF,9/26/2017,Sale (Full),Republican,KS,Commercial Banks,Finance,0,336,3,200,13,2,Finance,8000.5,1,249.08,255.62,46.33,47.48,0.001364128,1,0,1,0,1
+"Roberts, Pat",COF,9/26/2017,Purchase,Republican,KS,Major Banks,Finance,VA,336,3,200,13,2,Finance,8000.5,1,249.08,255.62,82.8,92.52,0.09113468,1,0,1,0,1
+"Roberts, Pat",COF,10/30/2017,Sale (Full),Republican,KS,Major Banks,Finance,VA,336,3,200,13,2,Finance,32500.5,1,256.75,262.71,92.43,90.97,0.03873586,1,0,12,0,1
+"Roberts, Pat",ETY,12/7/2017,Sale (Full),Republican,KS,Finance Companies,Finance,MA,336,3,200,13,2,Finance,175000.5,1,264.07,273.42,12.03,12.24,0.017039612,1,0,14,0,1
+"Roberts, Pat",ETY,12/13/2017,Purchase,Republican,KS,Finance Companies,Finance,MA,336,3,200,13,2,Finance,8000.5,1,266.75,277.92,12.15,12.42,-0.019652192,0,0,3,0,1
+"Roberts, Pat",BAC,12/13/2017,Purchase,Republican,KS,Major Banks,Finance,NC,336,3,200,13,2,Finance,8000.5,1,266.75,277.92,28.84,31.19,0.039609636,1,0,1,0,1
+"Roberts, Pat",ETY,12/13/2017,Sale (Full),Republican,KS,Finance Companies,Finance,MA,336,3,200,13,2,Finance,75000.5,1,266.75,277.92,12.15,12.42,0.018452292,1,0,1,0,1
+"Roberts, Pat",ETY,12/18/2017,Purchase,Republican,KS,Finance Companies,Finance,MA,336,3,200,13,2,Finance,175000.5,1,268.2,279.61,12.2,12.52,-0.01631337,0,0,4,0,1
+"Roberts, Pat",JPM,1/4/2018,Purchase,Republican,KS,Major Banks,Finance,NY,336,3,200,13,2,Finance,32500.5,1,271.61,275.45,109.04,114.28,0.033917841,1,0,3,0,1
+"Roberts, Pat",BAC,1/5/2018,Purchase,Republican,KS,Major Banks,Finance,NC,336,3,200,13,2,Finance,8000.5,1,273.42,275.45,30.33,31.95,0.045987988,1,0,2,0,1
+"Roberts, Pat",BAC,2/5/2018,Sale (Full),Republican,KS,Major Banks,Finance,NC,336,3,200,13,2,Finance,32500.5,1,263.93,272.78,30.26,32.18,-0.02722066,0,0,6,0,1
+"Roberts, Pat",ETY,2/5/2018,Purchase,Republican,KS,Finance Companies,Finance,MA,336,3,200,13,2,Finance,8000.5,1,263.93,272.78,11.36,11.83,0.007841621,1,0,3,0,1
+"Roberts, Pat",BAC,2/5/2018,Purchase,Republican,KS,Major Banks,Finance,NC,336,3,200,13,2,Finance,8000.5,1,263.93,272.78,30.26,32.18,0.029918481,1,0,1,0,1
+"Roberts, Pat",BAC,5/15/2018,Purchase,Republican,KS,Major Banks,Finance,NC,336,3,200,13,2,Finance,8000.5,1,271.1,278.73,31.22,29.5,-0.083237485,0,0,26,0,1
+"Roberts, Pat",BAC,7/5/2018,Purchase,Republican,KS,Major Banks,Finance,NC,336,3,200,13,2,Finance,8000.5,1,273.11,283.6,27.92,31.51,0.09017223,1,0,9,0,1
+"Roberts, Pat",BAC,7/18/2018,Sale (Partial),Republican,KS,Major Banks,Finance,NC,336,3,200,13,2,Finance,8000.5,1,281.06,285.06,30.13,30.74,-0.005811718,0,0,4,0,1
+"Roberts, Pat",BAC,7/24/2018,Sale (Full),Republican,KS,Major Banks,Finance,NC,336,3,200,13,2,Finance,8000.5,1,281.61,285.79,30.83,30.84,0.01430187,1,0,2,0,1
+"Roberts, Pat",JPM,7/30/2018,Sale (Full),Republican,KS,Major Banks,Finance,NY,336,3,200,13,2,Finance,8000.5,1,279.95,291.48,116.73,115.76,0.047936151,1,0,3,0,1
+"Roberts, Pat",ETY,1/13/2020,Sale (Partial),Republican,KS,Finance Companies,Finance,MA,336,3,200,13,2,Finance,32500.5,1,327.95,337.42,12.67,12.94,0.007200379,1,0,47,0,1
+"Roberts, Pat",EXPI,12/21/2020,Purchase,Republican,KS,Real Estate,Finance,WA,336,3,200,13,2,Finance,8000.5,1,367.86,383.89,39.85,46.18,0.115269311,1,0,109,0,1
+"Roberts, Pat",ETY,12/21/2020,Sale (Partial),Republican,KS,Finance Companies,Finance,MA,336,3,200,13,2,Finance,175000.5,1,367.86,383.89,12.28,12.69,0.009447849,1,0,1,0,1
+"Roberts, Pat",AAPL,12/22/2020,Purchase,Republican,KS,Computer Manufacturing,Technology,CA,336,3,200,13,2,Finance,32500.5,0,367.24,384.24,131.88,136.87,-0.008453826,0,0,8,1,1
+"Enzi, Michael B.",KEY,2/10/2016,Sale (Full),Republican,WY,Major Banks,Finance,OH,336,5,200,5,4,Finance,8000.5,1,185.27,202.76,10.52,11.22,0.023871025,1,0,2,0,1
+"Toomey, Patrick J.",PFS,2/11/2015,Sale (Full),Republican,PA,Savings Institutions,Finance,NJ,336,10,200,7,2,Finance,32500.5,1,206.93,205.8272,18.23,18.67,-0.028925113,0,0,10,0,1
+"Toomey, Patrick J.",PFS,3/25/2015,Sale (Partial),Republican,PA,Savings Institutions,Finance,NJ,336,10,200,7,2,Finance,32500.5,1,205.76,211.6499,18.43,18.06,0.048315768,1,0,7,0,1
+"Toomey, Patrick J.",PFS,3/26/2015,Sale (Partial),Republican,PA,Savings Institutions,Finance,NJ,336,10,200,7,2,Finance,32500.5,1,205.27,211.6499,18.43,18.06,0.050630912,1,0,2,0,1
+"Toomey, Patrick J.",PFS,6/16/2015,Sale (Partial),Republican,PA,Savings Institutions,Finance,NJ,336,10,200,7,2,Finance,32500.5,1,210.25,212.3,19.02,19.38,-0.008919704,0,0,8,0,1
+"Toomey, Patrick J.",PFS,6/23/2015,Sale (Partial),Republican,PA,Savings Institutions,Finance,NJ,336,10,200,7,2,Finance,32500.5,1,212.04,210.18,19.4,18.98,0.013278999,1,0,2,0,1
+"Toomey, Patrick J.",PFS,6/24/2015,Sale (Partial),Republican,PA,Savings Institutions,Finance,NJ,336,10,200,7,2,Finance,32500.5,1,210.5,208,19.33,18.78,0.017267244,1,0,2,0,1
+"Toomey, Patrick J.",PFS,8/7/2015,Sale (Partial),Republican,PA,Savings Institutions,Finance,NJ,336,10,200,7,2,Finance,32500.5,1,207.95,192.59,19.53,18.65,-0.032569933,0,0,3,0,1
+"Toomey, Patrick J.",PFS,8/10/2015,Sale (Partial),Republican,PA,Savings Institutions,Finance,NJ,336,10,200,7,2,Finance,8000.5,1,210.57,194.79,19.63,18.95,-0.045126414,0,0,2,0,1
+"Toomey, Patrick J.",PFS,8/31/2015,Sale (Partial),Republican,PA,Savings Institutions,Finance,NJ,336,10,200,7,2,Finance,32500.5,1,197.67,191.63,18.94,19.5,-0.060237022,0,0,2,0,1
+"Toomey, Patrick J.",PFS,9/17/2015,Sale (Partial),Republican,PA,Savings Institutions,Finance,NJ,336,10,200,7,2,Finance,32500.5,1,199.73,203.27,19.19,20.37,-0.040513065,0,0,2,0,1
+"Toomey, Patrick J.",PFS,9/18/2015,Sale (Partial),Republican,PA,Savings Institutions,Finance,NJ,336,10,200,7,2,Finance,32500.5,1,195.45,203.27,18.96,20.37,-0.030748441,0,0,2,0,1
+"Toomey, Patrick J.",PFS,11/22/2016,Sale (Partial),Republican,PA,Savings Institutions,Finance,NJ,336,10,200,7,2,Finance,32500.5,1,220.58,225.38,27.12,28.3,-0.020398749,0,0,12,0,1
+"Toomey, Patrick J.",BAC,1/25/2017,Purchase,Republican,PA,Major Banks,Finance,NC,336,10,200,7,2,Finance,32500.5,1,229.57,236.74,23.37,24.23,0.005567011,1,0,3,0,1
+"Toomey, Patrick J.",TRV,2/22/2017,Purchase,Republican,PA,Property-Casualty Insurers,Finance,NY,336,10,200,7,2,Finance,8000.5,1,236.28,233.86,121.9,120.77,0.000972192,1,0,6,0,1
+"Toomey, Patrick J.",PFS,1/5/2018,Sale (Full),Republican,PA,Savings Institutions,Finance,NJ,336,10,200,7,2,Finance,8000.5,1,273.42,275.45,26.83,26.39,0.024042741,1,0,13,0,1
+"Toomey, Patrick J.",BAC,1/5/2018,Sale (Full),Republican,PA,Major Banks,Finance,NC,336,10,200,7,2,Finance,32500.5,1,273.42,275.45,30.33,31.95,-0.043334467,0,0,1,0,1
+"Toomey, Patrick J.",PFS,1/8/2018,Sale (Full),Republican,PA,Savings Institutions,Finance,NJ,336,10,200,7,2,Finance,8000.5,1,273.92,267.67,26.82,25.65,0.022264388,1,0,3,0,1
+"Toomey, Patrick J.",NDAQ,11/19/2019,Sale (Full),Republican,PA,Investment Bankers/Brokers/Service,Finance,NY,336,10,200,7,2,Finance,8000.5,1,311.93,320.9,35.023333,35.673333,0.00973174,1,0,27,0,1
+"Toomey, Patrick J.",NDAQ,11/19/2019,Purchase,Republican,PA,Investment Bankers/Brokers/Service,Finance,NY,336,10,200,7,2,Finance,8000.5,1,311.93,320.9,35.023333,35.673333,-0.010197396,0,0,1,0,1
+"Whitehouse, Sheldon",AIG,1/14/2015,Sale (Full),Democrat,RI,Property-Casualty Insurers,Finance,NY,336,11,100,1,2,Finance,8000.5,1,200.86,209.78,51.38,53.96,-0.005292459,0,0,7,0,1
+"Whitehouse, Sheldon",STT,3/10/2015,Sale (Partial),Democrat,RI,Major Banks,Finance,MA,336,11,100,1,2,Finance,8000.5,1,204.98,208.9,71.34,76.22,-0.045260231,0,0,17,0,1
+"Whitehouse, Sheldon",PRU,5/7/2015,Sale (Full),Democrat,RI,Life Insurance,Finance,NJ,336,11,100,1,2,Finance,8000.5,1,208.87,209.77,85.17,88.24,-0.030501064,0,0,13,0,1
+"Whitehouse, Sheldon",BAC,5/27/2015,Purchase,Democrat,RI,Major Banks,Finance,NC,336,11,100,1,2,Finance,32500.5,1,212.7,209.82,16.74,17.41,0.053564092,1,0,9,0,1
+"Whitehouse, Sheldon",WFC,8/4/2015,Purchase,Democrat,RI,Major Banks,Finance,CA,336,11,100,1,2,Finance,8000.5,1,209.38,195.55,57.82,52.43,-0.027168185,0,0,16,0,1
+"Whitehouse, Sheldon",BAC,9/15/2015,Sale (Full),Democrat,RI,Major Banks,Finance,NC,336,11,100,1,2,Finance,32500.5,1,198.46,202.35,16.31,16.19,0.026636099,1,0,11,0,1
+"Whitehouse, Sheldon",JPM,1/20/2016,Purchase,Democrat,RI,Major Banks,Finance,NY,336,11,100,1,2,Finance,8000.5,1,185.65,192,55.51,57.82,0.007409976,1,0,23,0,1
+"Whitehouse, Sheldon",BAC,2/12/2016,Purchase,Democrat,RI,Major Banks,Finance,NC,336,11,100,1,2,Finance,8000.5,1,186.63,202.76,11.95,13.79,0.067547204,1,0,6,0,1
+"Whitehouse, Sheldon",MET,3/24/2016,Purchase,Democrat,RI,Life Insurance,Finance,NY,336,11,100,1,2,Finance,8000.5,1,203.12,208.97,42.3,46.9,0.079946336,1,0,12,0,1
+"Whitehouse, Sheldon",STT,4/12/2016,Sale (Full),Democrat,RI,Major Banks,Finance,MA,336,11,100,1,2,Finance,32500.5,1,205.92,206.56,57.49,60.03,-0.039213804,0,0,7,0,1
+"Whitehouse, Sheldon",C,7/26/2016,Sale (Full),Democrat,RI,Major Banks,Finance,NY,336,11,100,1,2,Finance,8000.5,1,216.75,217.7,44.15,46.72,-0.050644758,0,0,35,0,1
+"Whitehouse, Sheldon",MET,8/18/2016,Purchase,Democrat,RI,Life Insurance,Finance,NY,336,11,100,1,2,Finance,8000.5,1,218.86,213.37,40.47,43.83,0.108108991,1,0,11,0,1
+"Whitehouse, Sheldon",AXP,9/28/2016,Sale (Partial),Democrat,RI,Finance: Consumer Services,Finance,NY,336,11,100,1,2,Finance,32500.5,1,216.64,212.54,64.22,66.45,-0.052849553,0,0,17,0,1
+"Whitehouse, Sheldon",JPM,10/26/2016,Purchase,Democrat,RI,Major Banks,Finance,NY,336,11,100,1,2,Finance,8000.5,1,213.74,221.52,69.13,78.83,0.103915984,1,0,12,0,1
+"Whitehouse, Sheldon",CB,10/26/2016,Purchase,Democrat,RI,Property-Casualty Insurers,Finance,0,336,11,100,1,2,Finance,8000.5,1,213.74,221.52,127,126.65,-0.039155269,0,0,1,0,1
+"Whitehouse, Sheldon",HSBC,10/26/2016,Sale (Full),Democrat,RI,Savings Institutions,Finance,0,336,11,100,1,2,Finance,8000.5,1,213.74,221.52,38.12,39.83,-0.007811481,0,0,1,0,1
+"Whitehouse, Sheldon",WFC,10/26/2016,Sale (Full),Democrat,RI,Major Banks,Finance,CA,336,11,100,1,2,Finance,8000.5,1,213.74,221.52,46.15,52.62,-0.087836068,0,0,1,0,1
+"Whitehouse, Sheldon",GS,12/13/2016,Purchase,Democrat,RI,Investment Bankers/Brokers/Service,Finance,NY,336,11,100,1,2,Finance,8000.5,1,227.76,226.53,238.55,243.84,0.027576066,1,0,20,0,1
+"Whitehouse, Sheldon",USB,1/25/2017,Purchase,Democrat,RI,Major Banks,Finance,MN,336,11,100,1,2,Finance,8000.5,1,229.57,236.74,52.45,55.1,0.019292005,1,0,17,0,1
+"Whitehouse, Sheldon",JPM,2/23/2017,Purchase,Democrat,RI,Major Banks,Finance,NY,336,11,100,1,2,Finance,8000.5,1,236.44,233.86,91.13,87.29,-0.031225746,0,0,14,0,1
+"Whitehouse, Sheldon",USB,4/5/2017,Purchase,Democrat,RI,Major Banks,Finance,MN,336,11,100,1,2,Finance,8000.5,1,234.78,239.7,51.04,51.77,-0.006653281,0,0,13,0,1
+"Whitehouse, Sheldon",MMC,5/10/2017,Sale (Full),Democrat,RI,Specialty Insurers,Finance,NY,336,11,100,1,2,Finance,8000.5,1,239.87,243.41,73.79,78.23,-0.042212357,0,0,7,0,1
+"Whitehouse, Sheldon",BAC,5/16/2017,Purchase,Democrat,RI,Major Banks,Finance,NC,336,11,100,1,2,Finance,8000.5,1,240.08,243.77,23.99,23.54,-0.034127692,0,0,6,0,1
+"Whitehouse, Sheldon",GS,5/24/2017,Purchase,Democrat,RI,Investment Bankers/Brokers/Service,Finance,NY,336,11,100,1,2,Finance,8000.5,1,240.61,243.13,223.83,217.19,-0.040138751,0,0,8,0,1
+"Whitehouse, Sheldon",C,5/24/2017,Purchase,Democrat,RI,Major Banks,Finance,NY,336,11,100,1,2,Finance,8000.5,1,240.61,243.13,62.27,63.41,0.007833991,1,0,1,0,1
+"Whitehouse, Sheldon",C,7/25/2017,Purchase,Democrat,RI,Major Banks,Finance,NY,336,11,100,1,2,Finance,8000.5,1,247.42,243.99,68.03,67.69,0.008865272,1,0,11,0,1
+"Whitehouse, Sheldon",BTO,7/25/2017,Purchase,Democrat,RI,Investment Managers,Finance,MA,336,11,100,1,2,Finance,8000.5,1,247.42,243.99,36.06,33.58,-0.054911198,0,0,1,0,1
+"Whitehouse, Sheldon",GS,7/28/2017,Purchase,Democrat,RI,Investment Bankers/Brokers/Service,Finance,NY,336,11,100,1,2,Finance,8000.5,1,246.91,244.56,223.61,222.47,0.004419476,1,0,7,0,1
+"Whitehouse, Sheldon",COF,7/28/2017,Purchase,Democrat,RI,Major Banks,Finance,VA,336,11,100,1,2,Finance,32500.5,1,246.91,244.56,84.97,81.49,-0.031437993,0,0,1,0,1
+"Whitehouse, Sheldon",BHF,8/7/2017,Exchange,Democrat,RI,Life Insurance,Finance,NC,336,11,100,1,2,Finance,8000.5,1,247.87,246.9,61.72,53.18,0.156657971,1,0,1,0,1
+"Whitehouse, Sheldon",BHF,8/24/2017,Sale (Full),Democrat,RI,Life Insurance,Finance,NC,336,11,100,1,2,Finance,8000.5,1,243.99,249.44,55.32,58.35,-0.030079079,0,0,8,0,1
+"Whitehouse, Sheldon",JPM,11/27/2017,Purchase,Democrat,RI,Major Banks,Finance,NY,336,11,100,1,2,Finance,8000.5,1,260.23,267.32,97.93,107.22,0.067618549,1,0,16,0,1
+"Whitehouse, Sheldon",C,1/8/2018,Purchase,Democrat,RI,Major Banks,Finance,NY,336,11,100,1,2,Finance,8000.5,1,273.92,267.67,74.53,74.99,0.028988892,1,0,9,0,1
+"Whitehouse, Sheldon",USB,1/17/2018,Sale (Full),Democrat,RI,Major Banks,Finance,MN,336,11,100,1,2,Finance,8000.5,1,279.61,273.11,56.34,55.61,-0.010672799,0,0,4,0,1
+"Whitehouse, Sheldon",C,2/8/2018,Purchase,Democrat,RI,Major Banks,Finance,NY,336,11,100,1,2,Finance,8000.5,1,257.63,278.87,71.87,76.11,-0.023448406,0,0,3,0,1
+"Whitehouse, Sheldon",JPM,4/3/2018,Sale (Partial),Democrat,RI,Major Banks,Finance,NY,336,11,100,1,2,Finance,8000.5,1,260.77,262.62,109.33,107.24,0.026533395,1,0,9,0,1
+"Whitehouse, Sheldon",CB,5/7/2018,Purchase,Democrat,RI,Property-Casualty Insurers,Finance,0,336,11,100,1,2,Finance,8000.5,1,266.92,277.4,132.71,131.35,-0.049510609,0,0,8,0,1
+"Whitehouse, Sheldon",C,5/7/2018,Purchase,Democrat,RI,Major Banks,Finance,NY,336,11,100,1,2,Finance,8000.5,1,266.92,277.4,68.5,68.23,-0.043204306,0,0,1,0,1
+"Whitehouse, Sheldon",GS,6/6/2018,Purchase,Democrat,RI,Investment Bankers/Brokers/Service,Finance,NY,336,11,100,1,2,Finance,8000.5,1,277.4,275.42,232.23,221.79,-0.037817725,0,0,14,0,1
+"Whitehouse, Sheldon",C,6/6/2018,Purchase,Democrat,RI,Major Banks,Finance,NY,336,11,100,1,2,Finance,8000.5,1,277.4,275.42,68.23,67.14,-0.00883767,0,0,1,0,1
+"Whitehouse, Sheldon",BTO,6/13/2018,Purchase,Democrat,RI,Investment Managers,Finance,MA,336,11,100,1,2,Finance,8000.5,1,278.03,279.59,38.76,37.24,-0.044826592,0,0,5,0,1
+"Whitehouse, Sheldon",GS,8/28/2018,Purchase,Democrat,RI,Investment Bankers/Brokers/Service,Finance,NY,336,11,100,1,2,Finance,8000.5,1,289.92,290.69,242.37,227.74,-0.063018161,0,0,8,0,1
+"Whitehouse, Sheldon",C,12/3/2018,Sale (Full),Democrat,RI,Major Banks,Finance,NY,336,11,100,1,2,Finance,8000.5,1,279.3,250.18,65.16,53.53,0.100865154,1,0,12,0,1
+"Whitehouse, Sheldon",GS,12/4/2018,Sale (Full),Democrat,RI,Investment Bankers/Brokers/Service,Finance,NY,336,11,100,1,2,Finance,32500.5,1,270.25,244.21,184.31,169.51,-0.019319057,0,0,8,0,1
+"Whitehouse, Sheldon",COF,12/19/2018,Sale (Full),Democrat,RI,Major Banks,Finance,VA,336,11,100,1,2,Finance,8000.5,1,251.26,266.46,74.67,84.97,-0.064175045,0,0,2,0,1
+"Whitehouse, Sheldon",PGR,4/18/2019,Purchase,Democrat,RI,Property-Casualty Insurers,Finance,OH,336,11,100,1,2,Finance,8000.5,1,290.02,285.84,75,77.72,0.050679466,1,0,28,0,1
+"Whitehouse, Sheldon",CB,9/9/2020,Sale (Full),Democrat,RI,Property-Casualty Insurers,Finance,0,336,11,100,1,2,Finance,32500.5,1,339.79,346.85,122.22,120.45,0.035049514,1,0,16,0,1
+"Whitehouse, Sheldon",C,11/29/2022,Sale (Full),Democrat,RI,Major Banks,Finance,NY,336,11,100,1,2,Finance,8000.5,1,395.23,383.44,47.57,45.16,0.022617845,1,0,7,0,1
+"Cassidy, Bill",BLK,3/31/2016,Purchase,Republican,LA,Investment Bankers/Brokers/Service,Finance,NY,336,14,200,1,2,Finance,8000.5,1,205.52,206.3308,340.57,356.33,0.042330247,1,0,10,0,1
+"Cassidy, Bill",AFL,3/31/2016,Purchase,Republican,LA,Accident &Health Insurance,Finance,GA,336,14,200,1,2,Finance,8000.5,1,205.52,206.3308,31.57,34.485,0.08838938,1,0,1,0,1
+"Cassidy, Bill",TROW,10/31/2016,Purchase,Republican,LA,Investment Bankers/Brokers/Service,Finance,MD,336,14,200,1,2,Finance,8000.5,1,212.55,220.38,64.01,74.06,0.120168327,1,0,35,0,1
+"Cassidy, Bill",AFL,4/23/2018,Purchase,Republican,LA,Accident &Health Insurance,Finance,GA,336,14,200,1,2,Finance,8000.5,1,266.57,273.36,45.3,45.31,-0.025250983,0,0,33,0,1
+"Cassidy, Bill",BLK,4/23/2018,Sale (Partial),Republican,LA,Investment Bankers/Brokers/Service,Finance,NY,336,14,200,1,2,Finance,8000.5,1,266.57,273.36,519.85,542.66,-0.017194646,0,0,1,0,1
+"Cassidy, Bill",JPM,12/7/2018,Purchase,Republican,LA,Major Banks,Finance,NY,336,14,200,1,2,Finance,8000.5,1,263.57,252.39,103.29,100.69,0.017245728,1,0,17,0,1
+"Cassidy, Bill",TROW,3/9/2020,Sale (Partial),Republican,LA,Investment Bankers/Brokers/Service,Finance,MD,336,14,200,1,2,Finance,8000.5,1,274.23,274.03,103.64,105.51,-0.018453286,0,0,28,0,1
+"Cassidy, Bill",BLK,3/9/2020,Sale (Partial),Republican,LA,Investment Bankers/Brokers/Service,Finance,NY,336,14,200,1,2,Finance,8000.5,1,274.23,274.03,419.01,450.97,-0.071599306,0,0,1,0,1
+"Cassidy, Bill",TROW,7/15/2020,Sale (Full),Republican,LA,Investment Bankers/Brokers/Service,Finance,MD,336,14,200,1,2,Finance,8000.5,1,321.85,336.84,132.06,136.94,0.008865796,1,0,16,0,1
+"Cassidy, Bill",JPM,11/5/2020,Sale (Full),Republican,LA,Major Banks,Finance,NY,336,14,200,1,2,Finance,8000.5,1,350.24,369.85,104.35,122.34,-0.094027712,0,0,12,0,1
+"Cassidy, Bill",BLK,11/5/2020,Sale (Full),Republican,LA,Investment Bankers/Brokers/Service,Finance,NY,336,14,200,1,2,Finance,8000.5,1,350.24,369.85,668.19,703.47,0.002870103,1,0,1,0,1
+"Udall, Tom",GE,12/18/2018,Sale (Partial),Democrat,NM,Consumer Electronics/Appliances,Energy,MA,338,5,100,9,2,Foreign Relations,8000.5,0,255.08,262.96,58.24,73.12,-0.173534559,0,0,2,1,9
+"Hagerty, Bill",BKEPP,8/19/2022,Sale (Full),Republican,TN,,,OK,338,11,200,1,2,Foreign Relations,32500.5,0,422.14,385.56,0,0,,0,0,22,1,9
+"Tuberville, Tommy",F,4/28/2023,Purchase,Republican,AL,Auto Manufacturing,Capital Goods,MI,362,10,200,1,2,"Health, Education, Labor, and Pensions",32500.5,0,415.93,420.02,11.88,12.09,0.007843382,1,0,400,1,7
+"Rosen, Jacky",GE,1/3/2023,Exchange,Democrat,NV,Consumer Electronics/Appliances,Energy,MA,344,5,100,3,2,Homeland Security and Governmental Affairs,8000.5,0,380.82,416.78,84.98,83.94,0.098670334,1,0,7,1,8
+"Hoeven, John",BMEZ,1/29/2020,Purchase,Republican,ND,,,NY,435,1,200,9,2,Indian Affairs (Select Committee),175000.5,0,326.62,296.26,20.04,20,0.090956046,1,0,152,1,16
+"Cantwell, Maria",RNWK,12/28/2022,Sale (Full),Democrat,WA,Computer Software: Prepackaged Software,Technology,WA,435,2,100,19,2,Indian Affairs (Select Committee),32500.5,0,376.66,405.68,0,0,,0,1,2,1,16
+"Blunt, Roy",NRDY,9/27/2021,Purchase,Republican,MO,Computer Software: Prepackaged Software,Technology,MO,432,5,200,3,2,Intelligence (Select Committee),8000.5,0,442.64,453.94,10.06,7.76,-0.254156877,0,1,1,1,1
+"Reed, Jack",SLB,2/28/2019,Sale (Full),Democrat,RI,Oilfield Services/Equipment,Energy,TX,432,8,100,1,2,Intelligence (Select Committee),8000.5,0,278.68,282.48,44.06,43.57,0.02469855,1,0,149,1,1
+"Tillis, Thom",CVS,12/20/2018,Sale (Partial),Republican,NC,Medical/Nursing Services,Health Care,RI,358,10,200,7,2,Judiciary,8000.5,0,247.17,266.46,66.48,65.52,0.08704562,1,0,94,1,12
+"Thune, John",IRT,5/5/2022,Sale (Full),Republican,SD,Real Estate Investment Trusts,Real Estate,PA,662,2,200,NA,2,Minority whip,32500.5,0,413.81,410.54,23.75,23.75,-0.007965119,0,0,2,1,0
+"Loeffler, Kelly",ICE,7/22/2020,Sale (Partial),Republican,GA,Investment Bankers/Brokers/Service,Finance,GA,388,1,200,1,2,Veterans' Affairs,15000000.5,0,326.86,339.48,96.06,104.2,-0.0409445,0,1,184,1,6
